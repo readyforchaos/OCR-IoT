@@ -1,0 +1,1 @@
+C:\Users\Anders\Desktop\C#\OCRImgReadText\OCRImgReadText.csproj;arm

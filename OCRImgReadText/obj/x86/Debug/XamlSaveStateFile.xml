@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\anders\desktop\c#\ocrimgreadtext\obj\x86\debug\intermediatexaml\ocrimgreadtext.exe" HashGuid="f9918d0b-46f2-63b8-59d4-6a7b373a91bf" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\anders\desktop\c#\packages\microsoft.windows.ocr.1.0.0\lib\wpa81\x86\windowspreview.media.ocr.winmd" HashGuid="a5310a53-1cc2-dceb-da35-610421ecb7df" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

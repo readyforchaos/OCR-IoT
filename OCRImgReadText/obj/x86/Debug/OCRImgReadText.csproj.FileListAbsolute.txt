@@ -1,0 +1,17 @@
+C:\Users\Anders\Desktop\C#\OCRImgReadText\bin\x86\Debug\OcrResources\MsOcrRes.orp
+C:\Users\Anders\Desktop\C#\OCRImgReadText\bin\x86\Debug\WindowsPreview.Media.Ocr.winmd
+C:\Users\Anders\Desktop\C#\OCRImgReadText\bin\x86\Debug\WindowsPreview.Media.Ocr.dll
+C:\Users\Anders\Desktop\C#\OCRImgReadText\bin\x86\Debug\WindowsPreview.Media.Ocr.xml
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\OCRImgReadText.csprojResolveAssemblyReference.cache
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\App.g.i.cs
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\App.g.cs
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\MainPage.g.cs
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\App.xaml
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\MainPage.xaml
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\App.xbf
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\MainPage.xbf
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\OCRImgReadText.exe
+C:\Users\Anders\Desktop\C#\OCRImgReadText\obj\x86\Debug\OCRImgReadText.pdb
